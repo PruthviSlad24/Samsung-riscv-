@@ -1,1 +1,1 @@
-# Samsung-riscv-
+# Samsung-risc-V
